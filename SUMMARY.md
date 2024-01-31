@@ -4,10 +4,12 @@
 
 * [What is EmProps](README.md)
 * [Overview](platform-overview/overview.md)
+* [Membership & Billing](platform-overview/membership-and-billing.md)
 
 ## OpenStudio
 
-* [Page 1](openstudio/page-1.md)
+* [Getting Started](openstudio/getting-started.md)
+* [Untitled](openstudio/untitled.md)
 
 ## OpenMarket
 
