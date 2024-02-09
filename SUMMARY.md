@@ -10,7 +10,7 @@
 ## OpenStudio
 
 * [Getting Started](openstudio/getting-started.md)
-* [P5.J](openstudio/p5.j.md)
+* [P5.JS](openstudio/p5.js.md)
 * [Page 1](openstudio/page-1.md)
 
 ## OpenMarket
