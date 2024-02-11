@@ -6,12 +6,19 @@
 * [Overview](platform-overview/overview.md)
 * [Membership & Billing](platform-overview/membership-and-billing.md)
 * [Wallet Setup](platform-overview/wallet-setup.md)
+* [Wallets FAQ](platform-overview/wallets-faq.md)
+* [FAQ](platform-overview/faq.md)
 
 ## OpenStudio
 
 * [Getting Started](openstudio/getting-started.md)
-* [P5.JS](openstudio/p5.js.md)
-* [Page 1](openstudio/page-1.md)
+* [The Basics](openstudio/the-basics.md)
+* [Variables](openstudio/variables.md)
+* [refiner](openstudio/refiner.md)
+* [P5.JS](openstudio/p5.j.md)
+* [Short/Medium/Long-Form Collections](openstudio/short-medium-long-form-collections.md)
+* [Publishing Collections](openstudio/publishing-collections.md)
+* [Publishing](openstudio/publishing.md)
 
 ## OpenMarket
 
