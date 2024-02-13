@@ -15,7 +15,7 @@
 * [The Basics](openstudio/the-basics.md)
 * [Variables](openstudio/variables.md)
 * [refiner](openstudio/refiner.md)
-* [P5.JS](openstudio/p5.j.md)
+* [P5.JS](openstudio/p5.js.md)
 * [Short/Medium/Long-Form Collections](openstudio/short-medium-long-form-collections.md)
 * [Publishing Collections](openstudio/publishing-collections.md)
 * [Publishing](openstudio/publishing.md)
