@@ -3,11 +3,11 @@
 ## Platform Overview
 
 * [What is EmProps](README.md)
-* [Overview](platform-overview/overview.md)
 * [Membership & Billing](platform-overview/membership-and-billing.md)
 * [Wallet Setup](platform-overview/wallet-setup.md)
 * [Wallets FAQ](platform-overview/wallets-faq.md)
 * [FAQ](platform-overview/faq.md)
+* [Test Credits (Temporary)](platform-overview/test-credits-temporary.md)
 
 ## OpenStudio
 

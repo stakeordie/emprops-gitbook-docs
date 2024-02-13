@@ -1,24 +1,58 @@
 ---
-description: This is a dummy page
-coverY: 0
+description: >-
+  EmProps is short for Emergent Properties, at first it was just our URL, but we
+  really liked the way it sounds. EmProps is a platform where artists can make,
+  distribute, and sell a new kind of Gen Art.
 ---
 
 # What is EmProps
 
-
-
 ## Introduction
 
-EmProps is an Automation Platform for Artists. We provide tools and infrastructure that enables artists to build robust, complex, workflows to build, distribute, and monetize their creations.
+EmProps is made up of two applications that work hand in hand.
 
-## Why Automation for Art?
+[OpenStudio](openstudio/getting-started.md), a creativity studio for the era of AI and automation, and
 
-Generative Art
+[OpenMarket](openmarket/page-2.md), a minting platform and marketplace for your OpenStudio creations.
 
-AI
+Currently these two apps are pretty distinct, which is admittedly confusing, and we are working to unify them.
 
-Content Hyper Abundance
+### What you'll find here?
 
-IP & Sales
+First off you may not find what you are looking for. We are working to get these docs in a better place, so what you need may be missing. But don't worry, you can go to our discord server and open a ticket.
 
-artist.co
+Here's what we do have:
+
+Platform Overview (You are here)
+
+OpenStudio
+
+* Gettting Started
+* The Basics
+* Variables
+* The Refinder
+* p5.js
+* Short/Medium/Long-Form explination
+* Publishing
+* Let us know what else is needed...
+
+OpenMarket
+
+* Overview
+* Minting Your First Creation
+* Navigating the Marketplace
+* Buying and Selling
+* Fees and Pricing
+* Frequently Asked Questions (FAQs)
+
+### Getting Help
+
+#### Discord Community
+
+If you couldn't find the information you were looking for in our documentation, don't hesitate to join our Discord server. Here, you can open a support ticket, and our community managers or other members will help you out.
+
+#### Documentation Feedback
+
+We're constantly looking to improve our documentation. If you have suggestions or find any errors, please let us know through our feedback form available on the website or directly within the Discord community.
+
+Remember, your input helps us make EmProps better for everyone!
