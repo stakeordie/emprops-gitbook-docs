@@ -28,10 +28,10 @@ You can use any of these test credit card numbers in the field to process the te
 
 ### "Buying" more credits
 
-To "buy" credits you need to have less than 10 left. If that is the case you can follow this video:
+To "buy" credits you need to have less than 10 left. If that is the case you can follow this video:arcade
 
 
 
 
 
-{% embed url="https://www.youtube.com/watch?v=3INua4ceiIk" %}
+{% embed url="https://app.arcade.software/share/F0XqIDVlTqR1dBXqf1U3" %}
