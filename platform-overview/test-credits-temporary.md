@@ -13,11 +13,11 @@ Test credits can not be used to publish collections. The only peopl who can publ
 
 ### What are credits?
 
-Credits represent the usage of scarce compute resources. The goal is to make it so that 1 credit is enough to generate 1 - 1024x1024 image. This should equate to something like 10 seconds of compute time.
+Credits represent the usage of scarce compute resources. The goal is to make it so that 1 credit is enough to generate one 1024x1024 image @ 30 Steps. This should equate to something like 8 seconds of compute time.
 
 ### What are Test Credits?
 
-Test credits are free credits to be used ahead of the public beta launch. The exist for us to get a sense of how people use them and make sure our system is pefect before charging money.
+Test credits are free credits to be used ahead of the public beta launch. The exist for us to get a sense of how people use them and make sure our system is perfect before charging money.
 
 ### How do I get and use test credits?
 
