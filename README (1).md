@@ -7,8 +7,6 @@ description: >-
 
 # What is EmProps
 
-###
-
 ## Introduction
 
 EmProps is made up of two applications that work hand in hand.

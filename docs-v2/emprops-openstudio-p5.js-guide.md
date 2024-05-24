@@ -14,7 +14,7 @@ description: A guide to using the p5.js img2img process in the EmProps Studio
 
 To begin, make sure the img2img option is checked. This will allow you to use a generated image as the starting point for further image generation.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select img2img and p5.js to reveal the Open Editor button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select img2img and p5.js to reveal the Open Editor button</p></figcaption></figure>
 
 ### Step 2: Selecting p5.js <a href="#h_a503df4adb" id="h_a503df4adb"></a>
 
@@ -24,7 +24,7 @@ With img2img enabled, you'll see the option to choose p5.js as your source. Sele
 
 Click on the "OPEN EDITOR" button to launch the p5.js editor. Here, you can write or paste your p5.js code. The visual output of your code will become the source image for img2img processing.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>The p5.js editor in action, variables can be copied from the left and pasted into the code.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>The p5.js editor in action, variables can be copied from the left and pasted into the code.</p></figcaption></figure>
 
 ### How p5.js Works in Studio <a href="#h_a503df4adb" id="h_a503df4adb"></a>
 
@@ -46,7 +46,7 @@ function draw() {
 
 Note: The recommended method for accessing variables in your code is to use bracket notation, e.g., `variables["myVariable"]`.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>An example of a variables set containing numerical values for use in the p5.js node.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>An example of a variables set containing numerical values for use in the p5.js node.</p></figcaption></figure>
 
 ### Pseudorandom Number Generator - PseudoRandom <a href="#h_46d9f61496" id="h_46d9f61496"></a>
 

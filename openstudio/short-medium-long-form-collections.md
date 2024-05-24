@@ -1,4 +1,4 @@
-# Short/Medium/Long-Form Collections
+# Publishing Collections (Short, Medium, Long-form)
 
 Generative art comes in a variety of formats. There's **long-form** art, where artists publish their algorithms directly, giving up control over the outputs and allowing the outputs to be generated in real-time.
 
