@@ -1,18 +1,18 @@
 ---
-description: How to Reach Out for Support at EmProps OpenStudio
+description: How to Reach Out for Support at EmProps Studio
 ---
 
 # How to get support?
 
-When you encounter issues or have questions while using EmProps OpenStudio, accessing support is straightforward and user-centric. EmProps offers two primary ways to get the help you need: through our integrated Intercom node and our dedicated Discord server. Here’s how to use these resources effectively.
+When you encounter issues or have questions while using EmProps Studio, accessing support is straightforward and user-centric. EmProps offers two primary ways to get the help you need: through our integrated Intercom node and our dedicated Discord server. Here’s how to use these resources effectively.
 
 ### Option 1: Using the Intercom Node <a href="#h_a01de03634" id="h_a01de03634"></a>
 
-For immediate assistance and a direct line to our support team, use the Intercom node within OpenStudio. Here’s how to access it:
+For immediate assistance and a direct line to our support team, use the Intercom node within Studio. Here’s how to access it:
 
 ### Steps to Use Intercom: <a href="#h_a8987ff3f1" id="h_a8987ff3f1"></a>
 
-1. Access Intercom: Navigate to any page within EmProps OpenStudio. You’ll find the Intercom icon in the bottom-right corner of the screen.
+1. Access Intercom: Navigate to any page within EmProps Studio. You’ll find the Intercom icon in the bottom-right corner of the screen.
 2. Initiate Chat: Click on the icon to open a chat window. This service connects you directly to a live support agent.
 3. Describe Your Issue: Clearly state your problem or question in the chat. Providing details such as screenshots, steps you’ve already tried, and what you are trying to achieve will help the support team assist you more effectively.
 4. Follow Up: Once your initial query is sent, our team will respond promptly. Keep the chat window open for live interaction, or you can come back to it when you receive a notification of a response.
@@ -32,4 +32,4 @@ If you prefer to use Discord or require more detailed assistance that may involv
 
 ### Conclusion <a href="#h_89f4f6eb91" id="h_89f4f6eb91"></a>
 
-Whether you choose the direct and quick assistance of the Intercom node within OpenStudio or the community-engaged approach of our Discord channel, EmProps is committed to providing the support you need to ensure a smooth and enjoyable experience. Don’t hesitate to reach out with any issues or feedback—we’re here to help!
+Whether you choose the direct and quick assistance of the Intercom node within Studio or the community-engaged approach of our Discord channel, EmProps is committed to providing the support you need to ensure a smooth and enjoyable experience. Don’t hesitate to reach out with any issues or feedback—we’re here to help!

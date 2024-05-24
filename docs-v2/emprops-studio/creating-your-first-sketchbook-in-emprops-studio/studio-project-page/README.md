@@ -1,14 +1,12 @@
 ---
-description: >-
-  Understanding the many features and nodes within the OpenStudio's Creative
-  Suite
+description: Understanding the many features and nodes within the Studio's Creative Suite
 ---
 
-# OpenStudio Project Page
+# Studio Project Page
 
-### OpenStudio Project Page <a href="#h_5dab79fd5f" id="h_5dab79fd5f"></a>
+### Studio Project Page <a href="#h_5dab79fd5f" id="h_5dab79fd5f"></a>
 
-The OpenStudio Sketchbook Viewer allows users to view and interact with the contents of a specific sketchbook. This feature provides a detailed look at each project's pages, variables, and settings, enabling thorough project management and customization.
+The Studio Sketchbook Viewer allows users to view and interact with the contents of a specific sketchbook. This feature provides a detailed look at each project's pages, variables, and settings, enabling thorough project management and customization.
 
 [![](https://downloads.intercomcdn.com/i/o/1054691982/f022b19b9d9e36be11932fa5/image.png?expires=1716485400\&signature=5f2e6f479df583d2c65d863c90bf105c5754b8491a3492774f4db1f07ac97718)](https://downloads.intercomcdn.com/i/o/1054691982/f022b19b9d9e36be11932fa5/image.png?expires=1716485400\&signature=5f2e6f479df583d2c65d863c90bf105c5754b8491a3492774f4db1f07ac97718)
 
@@ -58,7 +56,7 @@ Width & Height are the dimensions of the generated image. Users can specify thes
 
 ### img2img <a href="#h_b6dcecd7e5" id="h_b6dcecd7e5"></a>
 
-The img2img toggle turns on image-to-image generation, which allows the OpenStudio to use an existing image as a starting point. This feature allows for creating derivative artworks based on a source image. There are three img2img options:\
+The img2img toggle turns on image-to-image generation, which allows the Studio to use an existing image as a starting point. This feature allows for creating derivative artworks based on a source image. There are three img2img options:\
 ​
 
 *   **Const**

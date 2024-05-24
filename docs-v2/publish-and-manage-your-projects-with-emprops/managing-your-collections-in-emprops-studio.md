@@ -1,16 +1,16 @@
 ---
-description: Managing Your Collections in EmProps OpenStudio
+description: Managing Your Collections in EmProps Studio
 ---
 
-# Managing Your Collections in EmProps OpenStudio
+# Managing Your Collections in EmProps Studio
 
 ### Overview <a href="#h_11f4d5896a" id="h_11f4d5896a"></a>
 
-The Collections management feature in EmProps OpenStudio provides creators with comprehensive control over their published collections. From tracking sales to adjusting minting settings, this guide will help you navigate the Collections page and manage your NFT collections effectively.
+The Collections management feature in EmProps Studio provides creators with comprehensive control over their published collections. From tracking sales to adjusting minting settings, this guide will help you navigate the Collections page and manage your NFT collections effectively.
 
 ### Accessing Your Collections <a href="#h_cc16c68843" id="h_cc16c68843"></a>
 
-1. Log in to your EmProps OpenStudio account.
+1. Log in to your EmProps Studio account.
 2. Navigate to the 'Collections' tab from the sidebar.
 3. Here you will find a list of your collections, along with details such as the type, blockchain network, and creation date.
 
@@ -33,7 +33,7 @@ The Collections management feature in EmProps OpenStudio provides creators with 
 
 ### Updating Collection Settings <a href="#h_e94541b19b" id="h_e94541b19b"></a>
 
-1. Collection Visibility: Toggle the visibility of your collection on the OpenMarket Main Gallery. Update to make changes.
+1. Collection Visibility: Toggle the visibility of your collection on the Market Main Gallery. Update to make changes.
 2. Minting Status: Enable or disable minting for your collection. Once disabled, no new editions can be minted.
 3. Minting Price: Adjust the price for minting new tokens within your collection.
 4. Total Editions: Set the new total number of editions for your collection. Note that you can only reduce the number, not increase it.
@@ -49,4 +49,4 @@ The Collections management feature in EmProps OpenStudio provides creators with 
 
 ### Conclusion <a href="#h_5671b5990f" id="h_5671b5990f"></a>
 
-The collection management tools in EmProps OpenStudio are designed to empower creators with control over their digital artwork. From minting to showcasing your pieces, these tools support your creative journey, allowing you to share your art with the community on your terms.
+The collection management tools in EmProps Studio are designed to empower creators with control over their digital artwork. From minting to showcasing your pieces, these tools support your creative journey, allowing you to share your art with the community on your terms.

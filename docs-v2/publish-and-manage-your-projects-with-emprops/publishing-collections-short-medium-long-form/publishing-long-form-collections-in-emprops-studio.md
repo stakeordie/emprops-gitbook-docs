@@ -1,18 +1,18 @@
 ---
-description: Publishing Long-Form Collections in EmProps OpenStudio
+description: Publishing Long-Form Collections in EmProps Studio
 ---
 
-# Publishing Long-Form Collections in EmProps OpenStudio
+# Publishing Long-Form Collections in EmProps Studio
 
 ### Introduction <a href="#h_96ccad8b10" id="h_96ccad8b10"></a>
 
-Long-form collections in EmProps OpenStudio allow artists to mint a set of instructions used in real-time image generation on blockchain platforms like Tezos and Ethereum. This guide will walk you through the process of publishing your long-form collection to make it accessible for minting and distribution.
+Long-form collections in EmProps Studio allow artists to mint a set of instructions used in real-time image generation on blockchain platforms like Tezos and Ethereum. This guide will walk you through the process of publishing your long-form collection to make it accessible for minting and distribution.
 
 ### Step-by-Step Guide to Publishing Your Collection <a href="#h_f0289d03b1" id="h_f0289d03b1"></a>
 
 ### Step 1: Connect Your Wallet <a href="#h_96ccad8b10" id="h_96ccad8b10"></a>
 
-1. Go to the “Publish Long-form Collection” section in OpenStudio.
+1. Go to the “Publish Long-form Collection” section Studio.
 2. Click on "CONNECT WALLET" to link your Tezos or Ethereum wallet. Ensure that your wallet is connected to the correct network (Tezos Ghostnet or Ethereum Sepolia for test runs, Tezos Mainnet or Ethereum Mainnet for live collections).
 
 ### Step 2: Complete Collection Details <a href="#h_c6cde14354" id="h_c6cde14354"></a>
@@ -57,4 +57,4 @@ Long-form collections in EmProps OpenStudio allow artists to mint a set of instr
 
 ### Conclusion <a href="#h_ee342d9b54" id="h_ee342d9b54"></a>
 
-By following these steps, your long-form collection will be minted and available for purchase on EmProps' OpenMarket or other connected marketplaces. Engage with your audience and market your collection to maximize visibility and sales.
+By following these steps, your long-form collection will be minted and available for purchase on EmProps' Market or other connected marketplaces. Engage with your audience and market your collection to maximize visibility and sales.

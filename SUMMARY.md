@@ -1,41 +1,26 @@
 # Table of contents
 
-## Platform Overview
-
-* [What is EmProps](README.md)
-* [Membership & Billing](platform-overview/membership-and-billing.md)
-* [Wallet Setup](platform-overview/wallet-setup.md)
-* [Wallets FAQ](platform-overview/wallets-faq.md)
-* [FAQ](platform-overview/faq.md)
-* [Test Credits (Temporary)](platform-overview/test-credits-temporary.md)
-
-## OpenStudio
-
-* [Getting Started](openstudio/getting-started.md)
-* [The Basics](openstudio/the-basics.md)
-* [Variables](openstudio/variables.md)
-* [refiner](openstudio/refiner.md)
-* [P5.JS](openstudio/p5.js.md)
-* [Short/Medium/Long-Form Collections](openstudio/short-medium-long-form-collections.md)
-* [Publishing Collections](openstudio/publishing-collections.md)
-* [Publishing](openstudio/publishing.md)
-
-## OpenMarket
-
-* [Page 2](openmarket/page-2.md)
-
-***
-
-* [Quick-Tips: OpenStudio Sketchbook Directory](quick-tips-openstudio-sketchbook-directory.md)
-
 ## Docs v2
 
-* [Using Variables in EmProps OpenStudio](docs-v2/using-variables-in-emprops-openstudio.md)
-* [How to get support?](docs-v2/how-to-get-support.md)
-* [Publishing a Medium-Form Collection on EmProps OpenStudio](docs-v2/publishing-a-medium-form-collection-on-emprops-openstudio.md)
-* [Understanding Stable Diffusion in EmProps OpenStudio](docs-v2/understanding-stable-diffusion-in-emprops-openstudio.md)
-* [Publishing Long-Form Collections in EmProps OpenStudio](docs-v2/publishing-long-form-collections-in-emprops-openstudio.md)
-* [Managing Your Collections in EmProps OpenStudio](docs-v2/managing-your-collections-in-emprops-openstudio.md)
-* [Creating Your First Sketchbook in EmProps OpenStudio](docs-v2/creating-your-first-sketchbook-in-emprops-openstudio.md)
-* [OpenStudio Project Page](docs-v2/openstudio-project-page.md)
-* [EmProps OpenStudio p5.js Guide](docs-v2/emprops-openstudio-p5.js-guide.md)
+* [Platform Overview](README.md)
+  * [What is EmProps](docs-v2/platform-overview/what-is-emprops.md)
+* [EmProps Studio](docs-v2/emprops-studio/README.md)
+  * [Creating Your First Sketchbook in EmProps Studio](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/README.md)
+    * [Studio Project Page](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/studio-project-page/README.md)
+      * [Quick-Tips: Studio Sketchbook Directory](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/studio-project-page/quick-tips-studio-sketchbook-directory.md)
+    * [EmProps Studio p5.js Guide](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/emprops-studio-p5.js-guide.md)
+    * [Understanding Stable Diffusion in EmProps Studio](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/understanding-stable-diffusion-in-emprops-studio.md)
+    * [Using Variables in EmProps Studio](docs-v2/emprops-studio/creating-your-first-sketchbook-in-emprops-studio/using-variables-in-emprops-studio.md)
+* [Publish and manage your projects with EmProps](docs-v2/publish-and-manage-your-projects-with-emprops/README.md)
+  * [Publishing Collections (Short, Medium, Long-form)](docs-v2/publish-and-manage-your-projects-with-emprops/publishing-collections-short-medium-long-form/README.md)
+    * [Publishing Long-Form Collections in EmProps Studio](docs-v2/publish-and-manage-your-projects-with-emprops/publishing-collections-short-medium-long-form/publishing-long-form-collections-in-emprops-studio.md)
+    * [Publishing a Medium-Form Collection on EmProps Studio](docs-v2/publish-and-manage-your-projects-with-emprops/publishing-collections-short-medium-long-form/publishing-a-medium-form-collection-on-emprops-studio.md)
+  * [Managing Your Collections in EmProps Studio](docs-v2/publish-and-manage-your-projects-with-emprops/managing-your-collections-in-emprops-studio.md)
+* [EmProps Market](docs-v2/emprops-market.md)
+* [FAQ](docs-v2/faq/README.md)
+  * [FAQ](docs-v2/faq/faq.md)
+  * [How to get support?](docs-v2/faq/how-to-get-support.md)
+  * [Wallets FAQ](docs-v2/faq/wallets-faq.md)
+  * [Wallet Setup](docs-v2/faq/wallet-setup.md)
+  * [Membership & Billing](docs-v2/faq/membership-and-billing.md)
+  * [Test Credits (Temporary)](docs-v2/faq/test-credits-temporary.md)

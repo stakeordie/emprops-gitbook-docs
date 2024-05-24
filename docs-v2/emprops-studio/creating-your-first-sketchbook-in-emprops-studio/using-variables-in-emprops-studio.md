@@ -1,18 +1,18 @@
 ---
-description: Using Variables in EmProps OpenStudio
+description: Using Variables in EmProps Studio
 ---
 
-# Using Variables in EmProps OpenStudio
+# Using Variables in EmProps Studio
 
 Introduction
 
-One of the core features in the OpenStudio is 'Variables'.
+One of the core features in the Studio is 'Variables'.
 
-Variables in EmProps OpenStudio offer a way to introduce diversity, precision, and control in the image generation process. This guide will take you through the steps of creating, editing, and applying variables to your projects.
+Variables in EmProps Studio offer a way to introduce diversity, precision, and control in the image generation process. This guide will take you through the steps of creating, editing, and applying variables to your projects.
 
 ### Accessing the Variables Editor <a href="#h_eadc84c78d" id="h_eadc84c78d"></a>
 
-1. Open your project in OpenStudio.
+1. Open your project in Studio.
 2. Navigate to the “Variables” section on your project page.
 3. Click on the “MANAGE” button to open the Variables Editor.
 
@@ -66,4 +66,4 @@ Variables in EmProps OpenStudio offer a way to introduce diversity, precision, a
 
 ### Conclusion <a href="#h_beb847c841" id="h_beb847c841"></a>
 
-Variables are a potent feature in EmProps OpenStudio, giving you the ability to customize and randomize your creative outputs extensively. Experiment with different variable types and values to find the best combination for your projects.
+Variables are a potent feature in EmProps Studio, giving you the ability to customize and randomize your creative outputs extensively. Experiment with different variable types and values to find the best combination for your projects.

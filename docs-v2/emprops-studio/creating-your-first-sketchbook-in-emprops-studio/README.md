@@ -1,18 +1,18 @@
 ---
-description: Creating Your First Sketchbook in EmProps OpenStudio
+description: Creating Your First Sketchbook in EmProps Studio
 ---
 
-# Creating Your First Sketchbook in EmProps OpenStudio
+# Creating Your First Sketchbook in EmProps Studio
 
-Welcome to EmProps OpenStudio! This guide will walk you through the process of creating your first sketchbook, which is your personal space to manage and generate AI-powered images.
+Welcome to EmProps Studio! This guide will walk you through the process of creating your first sketchbook, which is your personal space to manage and generate AI-powered images.
 
-### Step 1: Accessing OpenStudio <a href="#h_ca54d44df8" id="h_ca54d44df8"></a>
+### Step 1: Accessing the Studio <a href="#h_ca54d44df8" id="h_ca54d44df8"></a>
 
-First, ensure you are logged into your EmProps account. From the OpenStudio home page, log in with either your email, wallet, or another log-in option.
+First, ensure you are logged into your EmProps account. From the Studio home page, log in with either your email, wallet, or another log-in option.
 
 ### Step 2: The Sketchbook Directory <a href="#h_256bc28cd0" id="h_256bc28cd0"></a>
 
-Once in OpenStudio, the first page you will see is the Sketchbook Directory. This is your central hub for all your projects. You can view and manage existing sketchbooks here or start a new one from scratch or from a Template.
+Once in Studio, the first page you will see is the Sketchbook Directory. This is your central hub for all your projects. You can view and manage existing sketchbooks here or start a new one from scratch or from a Template.
 
 ### Step 3: Create a New Sketchbook <a href="#h_14a241ad40" id="h_14a241ad40"></a>
 
@@ -27,6 +27,7 @@ After creating your sketchbook, you’ll be taken to its main page. Here, you ca
 * Add Pages: Each page can represent a different aspect or variant of your project. Click on “Add Page” to start customizing your first page.
 * Name Your Sketchbook and Pages: By clicking the 'Untitled' text in the top-left, you can modify the name of your project or current page. Choose a name that reflects the theme or purpose of your projects, such as “Nature Landscapes” or “Futuristic Cities.”
 * Manage Variables: If you'd like your project to contain specific variables, such as text strings, images, or custom seeds, you can define and manage these through the variables editor.
+* NOTE: The article, ["Studio Project Page"](#user-content-fn-1)[^1] describes the Studio's features in greater detail
 
 ### Step 5: Customizing Project Settings <a href="#h_175ca24d6c" id="h_175ca24d6c"></a>
 
@@ -53,4 +54,6 @@ After generation, view your images in the “Outputs” section of your sketchbo
 
 ### Conclusion <a href="#h_8fbf68b074" id="h_8fbf68b074"></a>
 
-Congratulations! You have created your first sketchbook in EmProps OpenStudio. Explore different settings and variables to master the art of AI-driven image creation. For more detailed information on specific features, refer to our Wiki-styled documentation and tutorials.
+Congratulations! You have created your first sketchbook in EmProps Studio. Explore different settings and variables to master the art of AI-driven image creation. For more detailed information on specific features, refer to our Wiki-styled documentation and tutorials.
+
+[^1]: [https://app.gitbook.com/o/dca8nEo43AztysZ7A1IF/s/5gRO5AuPAuhek8BpkRN1/\~/changes/28/docs-v2/studio-project-page](https://app.gitbook.com/o/dca8nEo43AztysZ7A1IF/s/5gRO5AuPAuhek8BpkRN1/\~/changes/28/docs-v2/studio-project-page)
