@@ -2,8 +2,7 @@
 
 ## Docs v2
 
-* [Platform Overview](README.md)
-  * [What is EmProps](<README (1).md>)
+* [Welcome to EmProps!](README.md)
 * [EmProps Studio](docs-v2/emprops-studio/README.md)
   * [Creating Your First Sketchbook in EmProps Studio](docs-v2/creating-your-first-sketchbook-in-emprops-openstudio.md)
     * [Studio Project Page](docs-v2/openstudio-project-page.md)
@@ -15,12 +14,14 @@
   * [Publishing Collections (Short, Medium, Long-form)](openstudio/short-medium-long-form-collections.md)
     * [Publishing Long-Form Collections in EmProps Studio](docs-v2/publishing-long-form-collections-in-emprops-openstudio.md)
     * [Publishing a Medium-Form Collection on EmProps Studio](docs-v2/publishing-a-medium-form-collection-on-emprops-openstudio.md)
+    * [Copy of Publishing a Medium-Form Collection on EmProps Studio](docs-v2/publish-and-manage-your-projects-with-emprops/publishing-collections-short-medium-long-form/copy-of-publishing-a-medium-form-collection-on-emprops-studio.md)
   * [Managing Your Collections in EmProps Studio](docs-v2/managing-your-collections-in-emprops-openstudio.md)
-* [EmProps Market](docs-v2/emprops-market.md)
+* [EmProps Marketplace](docs-v2/emprops-marketplace.md)
 * [FAQ](docs-v2/faq/README.md)
   * [FAQ](platform-overview/faq.md)
   * [How to get support?](docs-v2/how-to-get-support.md)
   * [Wallets FAQ](platform-overview/wallets-faq.md)
   * [Wallet Setup](platform-overview/wallet-setup.md)
   * [Membership & Billing](platform-overview/membership-and-billing.md)
+  * [My Token is not showing up on the marketplace!](docs-v2/faq/my-token-is-not-showing-up-on-the-marketplace.md)
   * [Test Credits (Temporary)](platform-overview/test-credits-temporary.md)
