@@ -22,7 +22,10 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 ### Sampling Steps <a href="#h_54a0c4d182" id="h_54a0c4d182"></a>
 
 * Definition: Sampling Steps denote the number of iterations the model performs to refine the generated image. Each step allows the AI to adjust the image's details and complexity.
-* Impact: More steps typically lead to higher-quality images, but also require more computational power and time. Fewer steps result in quicker outputs but may reduce image fidelity or detail. Sampling steps affect how many credits are required for the image generation, so keep that in mind. 20-40 is usually a good range of steps.
+* Impact: More steps typically lead to higher-quality images, but also require more computational power and time. Fewer steps result in quicker outputs but may reduce image fidelity or detail. Sampling steps affect how many credits are required for the image generation, so keep that in mind.&#x20;
+  * 20-40 steps is usually a good range.
+
+<figure><img src="../.gitbook/assets/xyz_grid-0010-1889326993 (1).jpg" alt=""><figcaption><p>"a painter wearing a cute felted yellow mask embroidered with a large smiley-face and wearing colorful overalls, in the style of surreal human figures, detailed textures, contemporary outsider art, playfully intricate, indoor art-gallery exhibit, cozy lo-fi vaporwave-inspired 90s aesthetics" CFG: 7, Checkpoint: SDXL, Resolution: 960 x 1280</p></figcaption></figure>
 
 ### Sampling Method <a href="#h_8db35aed3d" id="h_8db35aed3d"></a>
 
