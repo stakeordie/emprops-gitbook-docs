@@ -2,7 +2,7 @@
 description: or, how to Refresh.
 ---
 
-# My Token is not showing up on the marketplace!
+# ❕ My Token is not showing up on the marketplace!
 
 Sometimes the generator may get stuck while creating an artwork. If this happens, you can reach out to our team via Intercom or Discord.\
 \

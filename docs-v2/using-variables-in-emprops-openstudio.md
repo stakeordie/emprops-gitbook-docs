@@ -2,7 +2,7 @@
 description: Using Variables in EmProps Studio
 ---
 
-# Using Variables in EmProps Studio
+# 📄 Using Variables in EmProps Studio
 
 Introduction
 

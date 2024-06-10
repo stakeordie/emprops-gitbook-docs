@@ -1,4 +1,4 @@
-# Wallet Setup
+# 🏦 Wallet Setup and FAQ
 
 EmProps supports both Tezos and Etherium.
 
@@ -110,9 +110,33 @@ If all went well you will see that you now have test tez and are ready to move o
 
 ![Screenshot 2023-07-04 at 21.12.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4279a3a1-b28c-411c-bbf3-37642ac4e44a/Screenshot\_2023-07-04\_at\_21.12.10.png)
 
-phx.gru3xaq@JNC\_ema
-
 \
+Wallet FAQ:
+-----------
+
+### Kukai doesn’t work, what’s going on?
+
+There is a bug in Beacon that prevents us from telling Kukai what link. So we can’t predict if it will send users to mainnet or testnet. The solution is to update the URL when you go to Kukai if it is sending you to the wrong site.
+
+\---
+
+You may find that when you switch that the change doesn’t take effect on EmProps and you see and error. The reason for this is that you are signed in to Kukai in the “wrong” mode. To fix, sign out of Kukai in the it it defaulting to, Switching should now work\
+\
+\---\
+\
+Why does my wallet say the wrong network? / Why might I be getting wallet failures when I try to publish?
+
+This is most like an issue with Temple wallet for XTZ but also effects Metamask. Lets take them one at a time.
+
+Temple
+
+When you connect temple to the site it connects with main or testnet. Once this connection is made, temple seems to ignore when we tell it to move to the other when you switch. So, the best bet is to disconnect and reconnect after switching networks.\
+\
+\
+Similar to Temple there is no way to switch networks automatically. To switch you need to disconnect and reconnect. The catch is, as is shown in the Kukai Doesn’t work answer, you need to log out of ghostnet Kukai before try to connect to mainnet, or vice versa depending on the way your wallet connected to to Kukai originally.\
+\
+\---
+
 
 
 ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77a1a663-a562-4122-84e8-df3a6f86afa2/Screenshot\_2023-07-04\_at\_20.39.46.png)

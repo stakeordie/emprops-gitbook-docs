@@ -5,7 +5,7 @@ description: >-
   experience.
 ---
 
-# Test Credits (Temporary)
+# 🪙 Test Credits (Temporary)
 
 ### Restrictions
 

@@ -2,7 +2,7 @@
 description: Understanding Stable Diffusion in EmProps Studio
 ---
 
-# Understanding Stable Diffusion in EmProps Studio
+# 🧠 Understanding Stable Diffusion in EmProps Studio
 
 ### Introduction <a href="#h_396acd4bd2" id="h_396acd4bd2"></a>
 
@@ -14,6 +14,10 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 *   Impact: Choosing the right CFG Scale can be a balancing act. Too high may produce repetitive or overly literal images, while too low may yield images that diverge significantly from the prompt.
 
     A CFG of 7 is generally a healthy middle, where as you go lower it becomes more desaturated, wispy and ethereal. With much higher CFG's, the image starts to get oversaturated and deep-fried.
+*
+*
+
+    <figure><img src="../.gitbook/assets/CFG.jpeg" alt=""><figcaption><p>"The flying spaghetti monster emerging from its noodley realm" <br>Sampling Steps: 30, Sampling Method: DPM++ 2M Karras, Checkpoint: JuggernautXL, Resolution: 1024x1024</p></figcaption></figure>
 
 ### Sampling Steps <a href="#h_54a0c4d182" id="h_54a0c4d182"></a>
 
@@ -25,7 +29,7 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 * Definition: Samplers are algorithms that guide the decision-making process during image generation. Different samplers can affect the style and texture of the output.
 * Impact: The choice of sampler can affect the visual coherence and the aesthetic quality of the images. It's often a matter of experimentation to find the sampler that best aligns with the desired artistic outcome.
 
-<figure><img src="../../../.gitbook/assets/Sampling Methods.jpg" alt=""><figcaption><p>"long white fence leading to red barn on top of green hill, blue sky, in the style of David Hockney and in the style of Richard Avedon" Sampling Steps: 30, CFG: 7, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sampling Methods.jpg" alt=""><figcaption><p>"long white fence leading to red barn on top of green hill, blue sky, in the style of David Hockney and in the style of Richard Avedon" Sampling Steps: 30, CFG: 7, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
 
 &#x20;_Note: While sampling methods tend to have a subtle effect on the aesthetic, the biggest differences are between standard and ancestral methods.. An 'ancestral' sampling method, marked by an 'a' (e.g., 'Euler a'), evolves with additional steps, unlike those that adhere to a specific aesthetic without extra steps. Generally, 20-30 steps offer a balanced approach._
 

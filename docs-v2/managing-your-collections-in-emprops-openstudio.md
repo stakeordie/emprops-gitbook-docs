@@ -2,7 +2,7 @@
 description: Managing Your Collections in EmProps Studio
 ---
 
-# Managing Your Collections in EmProps Studio
+# 💼 Managing Your Collections in EmProps Studio
 
 ### Overview <a href="#h_11f4d5896a" id="h_11f4d5896a"></a>
 

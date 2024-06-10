@@ -1,4 +1,4 @@
-# FAQ
+# ❓ Additional FAQs
 
 1. **What is EmProps?** EmProps is a cutting-edge platform that blends an OpenStudio with an OpenMarket. It is designed for AI artists and enthusiasts to create, curate, sell, and buy long-form generative art. It harnesses a network of interconnected nodes and tools to spark creativity and facilitate art projects.
 2. **Can you tell me more about OpenStudio?** Certainly! The [OpenStudio](https://openstudio.emprops.ai/) is part of the EmProps ecosystem, acting as a suite of inventive tools tailored for crafting prompts and weaving ideas into tangible creative output. It's the heart of where your art takes shape.

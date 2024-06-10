@@ -1,2 +1,6 @@
-# Membership & Billing
+---
+description: Subscriptions and MemberTokens
+---
+
+# 💳 Membership & Billing
 

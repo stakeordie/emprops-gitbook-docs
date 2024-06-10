@@ -1,4 +1,10 @@
-# Welcome to EmProps!
+---
+cover: >-
+  https://images.unsplash.com/photo-1545431781-3e1b506e9a37?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxyYWluYm93fGVufDB8fHx8MTcxODAzODYyNHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 💥 Welcome to EmProps!
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 description: Understanding the many features and nodes within the Studio's Creative Suite
 ---
 
-# Studio Project Page
+# 📔 Studio Project Page
 
 ### **Studio Sketchbook Directory**
 
@@ -85,7 +85,7 @@ The img2img toggle turns on image-to-image generation, which allows the Studio t
     Select images at random from a gallery of pre-selected images from your flatfiles. To set up an img2img variables group, see "Variables"
 *   **p5.js**
 
-    Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](emprops-studio-p5.js-guide.md).
+    Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](emprops-openstudio-p5.js-guide.md).
 
 ### Upscaler <a href="#h_61e756d732" id="h_61e756d732"></a>
 
