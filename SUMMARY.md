@@ -9,7 +9,7 @@
     * [📔 Studio Project Page](docs-v2/openstudio-project-page.md)
     * [📄 Using Variables in EmProps Studio](docs-v2/using-variables-in-emprops-openstudio.md)
     * [🧠 Understanding Stable Diffusion in EmProps Studio](docs-v2/understanding-stable-diffusion-in-emprops-openstudio.md)
-    * [💾 EmProps Studio p5.js Guide](docs-v2/emprops-openstudio-p5.js-guide.md)
+    * [💾 p5.js Guide](docs-v2/emprops-studio/creating-your-first-collection-in-emprops-studio/p5.js-guide.md)
 * [🖼️ Publishing Collections (Short, Medium, Long-form)](openstudio/short-medium-long-form-collections.md)
   * [Publishing Long-Form Collections in EmProps Studio](docs-v2/publishing-long-form-collections-in-emprops-openstudio.md)
   * [Publishing a Medium-Form Collection in EmProps Studio](docs-v2/publishing-collections-short-medium-long-form/publishing-a-medium-form-collection-in-emprops-studio.md)
