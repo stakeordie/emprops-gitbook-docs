@@ -34,8 +34,8 @@ After creating your project, you’ll be taken to its main page. Here, you can:
 
     Click the 'Untitled' text in the top-left corner to rename your project or page. Choose a name that reflects its theme or purpose, like “Nature Landscapes” or “Futuristic Cities.”
 * **Manage Variables:**\
-  If you'd like your project to contain specific variables, such as text strings, images, or custom seeds, you can define and manage these through the [variables editor](using-variables-in-emprops-openstudio.md).
-* NOTE: The ["Studio Project Page"](openstudio-project-page.md) article describes the Studio's features in greater detail.
+  If you'd like your project to contain specific variables, such as text strings, images, or custom seeds, you can define and manage these through the [variables editor](using-variables-in-emprops-studio.md).
+* NOTE: The ["Studio Project Page"](studio-project-page.md) article describes the Studio's features in greater detail.
 
 ### Step 5: Customizing Project Settings <a href="#h_175ca24d6c" id="h_175ca24d6c"></a>
 

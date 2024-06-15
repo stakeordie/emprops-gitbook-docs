@@ -15,7 +15,7 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 
     A CFG of 7 is generally a healthy middle, where as you go lower it becomes more desaturated, wispy and ethereal. With much higher CFG's, the image starts to get oversaturated and deep-fried.
 
-<figure><img src="../.gitbook/assets/CFG.jpeg" alt=""><figcaption><p>"The flying spaghetti monster emerging from its noodley realm" <br>Sampling Steps: 30, Sampling Method: DPM++ 2M Karras, Checkpoint: JuggernautXL, Resolution: 1024x1024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CFG.jpeg" alt=""><figcaption><p>"The flying spaghetti monster emerging from its noodley realm" <br>Sampling Steps: 30, Sampling Method: DPM++ 2M Karras, Checkpoint: JuggernautXL, Resolution: 1024x1024</p></figcaption></figure>
 
 ### Sampling Steps <a href="#h_54a0c4d182" id="h_54a0c4d182"></a>
 
@@ -23,14 +23,14 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 * Impact: More steps typically lead to higher-quality images, but also require more computational power and time. Fewer steps result in quicker outputs but may reduce image fidelity or detail. Sampling steps affect how many credits are required for the image generation, so keep that in mind.&#x20;
   * 20-40 steps is usually a good range.
 
-<figure><img src="../.gitbook/assets/xyz_grid-0010-1889326993 (1).jpg" alt=""><figcaption><p>"a painter wearing a cute felted yellow mask embroidered with a large smiley-face and wearing colorful overalls, in the style of surreal human figures, detailed textures, contemporary outsider art, playfully intricate, indoor art-gallery exhibit, cozy lo-fi vaporwave-inspired 90s aesthetics" CFG: 7, Checkpoint: SDXL, Resolution: 960 x 1280</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xyz_grid-0010-1889326993 (1).jpg" alt=""><figcaption><p>"a painter wearing a cute felted yellow mask embroidered with a large smiley-face and wearing colorful overalls, in the style of surreal human figures, detailed textures, contemporary outsider art, playfully intricate, indoor art-gallery exhibit, cozy lo-fi vaporwave-inspired 90s aesthetics" CFG: 7, Checkpoint: SDXL, Resolution: 960 x 1280</p></figcaption></figure>
 
 ### Sampling Method <a href="#h_8db35aed3d" id="h_8db35aed3d"></a>
 
 * Definition: Samplers are algorithms that guide the decision-making process during image generation. Different samplers can affect the style and texture of the output.
 * Impact: The choice of sampler can affect the visual coherence and the aesthetic quality of the images. It's often a matter of experimentation to find the sampler that best aligns with the desired artistic outcome.
 
-<figure><img src="../.gitbook/assets/Sampling Methods.jpg" alt=""><figcaption><p>"long white fence leading to red barn on top of green hill, blue sky, in the style of David Hockney and in the style of Richard Avedon" Sampling Steps: 30, CFG: 7, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sampling Methods.jpg" alt=""><figcaption><p>"long white fence leading to red barn on top of green hill, blue sky, in the style of David Hockney and in the style of Richard Avedon" Sampling Steps: 30, CFG: 7, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
 
 &#x20;_Note: While sampling methods tend to have a subtle effect on the aesthetic, the biggest differences are between standard and ancestral methods.. An 'ancestral' sampling method, marked by an 'a' (e.g., 'Euler a'), evolves with additional steps, unlike those that adhere to a specific aesthetic without extra steps. Generally, 20-30 steps offer a balanced approach._
 
@@ -39,7 +39,7 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 * Definition: Denoising in the context of stable diffusion refers to how much detail is retained or removed from the starting image in image-to-image (img2img) tasks.
 * Impact: The denoising setting can greatly influence the final image. Higher denoising levels make the AI fill in more details, potentially altering the original image more drastically. Lower levels of denoising maintain more of the source image's structure and details.
 
-<figure><img src="../.gitbook/assets/needlefelted Mantis Shrimp.jpg" alt=""><figcaption><p>[EmProps Logo to "needlefelted mantis shrimp"]<br>Sampling Steps: 40, CFG: 7, Sampling Method: DPM++ 2M Karras, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/needlefelted Mantis Shrimp.jpg" alt=""><figcaption><p>[EmProps Logo to "needlefelted mantis shrimp"]<br>Sampling Steps: 40, CFG: 7, Sampling Method: DPM++ 2M Karras, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
 
 ### Prompt Engineering <a href="#h_b3646b3c4a" id="h_b3646b3c4a"></a>
 
