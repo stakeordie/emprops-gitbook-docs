@@ -14,10 +14,8 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 *   Impact: Choosing the right CFG Scale can be a balancing act. Too high may produce repetitive or overly literal images, while too low may yield images that diverge significantly from the prompt.
 
     A CFG of 7 is generally a healthy middle, where as you go lower it becomes more desaturated, wispy and ethereal. With much higher CFG's, the image starts to get oversaturated and deep-fried.
-*
-*
 
-    <figure><img src="../.gitbook/assets/CFG.jpeg" alt=""><figcaption><p>"The flying spaghetti monster emerging from its noodley realm" <br>Sampling Steps: 30, Sampling Method: DPM++ 2M Karras, Checkpoint: JuggernautXL, Resolution: 1024x1024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CFG.jpeg" alt=""><figcaption><p>"The flying spaghetti monster emerging from its noodley realm" <br>Sampling Steps: 30, Sampling Method: DPM++ 2M Karras, Checkpoint: JuggernautXL, Resolution: 1024x1024</p></figcaption></figure>
 
 ### Sampling Steps <a href="#h_54a0c4d182" id="h_54a0c4d182"></a>
 
@@ -36,10 +34,12 @@ Stable diffusion is the process that powers EmProps Studio's AI-driven image gen
 
 &#x20;_Note: While sampling methods tend to have a subtle effect on the aesthetic, the biggest differences are between standard and ancestral methods.. An 'ancestral' sampling method, marked by an 'a' (e.g., 'Euler a'), evolves with additional steps, unlike those that adhere to a specific aesthetic without extra steps. Generally, 20-30 steps offer a balanced approach._
 
-### Denoising <a href="#h_521d2689a6" id="h_521d2689a6"></a>
+### Denoising Strength <a href="#h_521d2689a6" id="h_521d2689a6"></a>
 
 * Definition: Denoising in the context of stable diffusion refers to how much detail is retained or removed from the starting image in image-to-image (img2img) tasks.
 * Impact: The denoising setting can greatly influence the final image. Higher denoising levels make the AI fill in more details, potentially altering the original image more drastically. Lower levels of denoising maintain more of the source image's structure and details.
+
+<figure><img src="../.gitbook/assets/needlefelted Mantis Shrimp.jpg" alt=""><figcaption><p>[EmProps Logo to "needlefelted mantis shrimp"]<br>Sampling Steps: 40, CFG: 7, Sampling Method: DPM++ 2M Karras, Checkpoint: SDXL, Resolution: 1024x1024</p></figcaption></figure>
 
 ### Prompt Engineering <a href="#h_b3646b3c4a" id="h_b3646b3c4a"></a>
 
