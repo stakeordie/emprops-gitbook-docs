@@ -1,17 +1,57 @@
 # ❓ Additional FAQs
 
-1. **What is EmProps?** EmProps is a cutting-edge platform that blends an OpenStudio with an OpenMarket. It is designed for AI artists and enthusiasts to create, curate, sell, and buy long-form generative art. It harnesses a network of interconnected nodes and tools to spark creativity and facilitate art projects.
-2. **Can you tell me more about OpenStudio?** Certainly! The [OpenStudio](https://openstudio.emprops.ai/) is part of the EmProps ecosystem, acting as a suite of inventive tools tailored for crafting prompts and weaving ideas into tangible creative output. It's the heart of where your art takes shape.
-3. **How do I gain access the OpenStudio?** During the Beta phase the only way to connect to the OpenStudio is by having a MemberToken or PatronPass. Once minted, you can sign up to the OpenStudio by connecting your wallet and filling out the required info [here.](https://app.openstudio.emprops.ai/sign-up)
-4. **What benefits does a MemberToken offer?** The MemberToken is your all-access ticket to the EmProps beta. Plus, it secures your unlimited 'basic' level membership for the grand launch in 2024.
-5. **How can I publish my work?** With OpenStudio, publishing your art is a breeze. Whether you're looking to showcase long-form generative collections or curated short-form pieces, you can effortlessly publish to both the Tezos and Ethereum blockchains. It’s as easy as selecting the OpenStudio Publish widget at the bottom-right of your project page and filling out your preferences.
-6. **What's this PatronPass I've heard so much about?** 25 [PatronPasses](https://rarible.com/collection/0xb3a87c89acd407751bb6f4c7708548b17158a16d/items) were previously minted, offering an elevated EmProps journey. The PatronPass allows a patron to extend access to up to five additional users. It also provides patrons with an unlimited top-tier membership for our official release.
-7. **I’m not familiar with cryptocurrency. Can I purchase tokens with my credit card?** Absolutely! With the [EmProps OpenMarket](https://emprops.ai/openmarket), you can conveniently purchase tokens with USD via your credit card; no crypto knowledge necessary!
-8. **Does EmProps charge any marketplace fees from artists or creators?** EmProps is committed to supporting artists' prosperity. We don't take any marketplace fees from sales. The full sale amount goes directly to you, the creator. Instead, we plan to implement a subscription-based membership model in the future.
-9. **What makes EmProps OpenStudio unique in the creative landscape?** EmProps OpenStudio is crafted for end-to-end creativity, offering an intuitive, rapid, and adaptable experience. Our platform embraces an additive and intentional creative process, setting a new standard for modern artistry.
-10. **How do variables enhance my creative process within OpenStudio?** Variables are an integral part of OpenStudio. They act as prompt fragments and adjustable settings that enhance the create-test-feedback loop. Variables enable a wide range of dynamic expressions within long-form collections, setting our platform apart from others. EmProps' [variable settings](https://www.notion.so/Variables-891b88334d444e80b267317e2f12ecd4?pvs=21) offer an unparalleled level of customization and variability in your art. As a result, no two pieces are exactly alike, giving your collections a unique vibe.
-11. **Can you explain the p5.js Pipeline feature?** Certainly! Our p5.js Pipeline integrates seamlessly with img2img generation, a cornerstone of Stable Diffusion and similar AI-based image generators. By using a [p5.js](https://p5js.org/) script as the input, OpenStudio provides an incredibly potent pipeline for advanced creative projects, allowing you to take your AI art to unprecedented levels.
-12. **I've published my first project to the OpenMarket, but on Objkt it's showing the artist name as 'n/a'. What gives?** Not to worry! Head over to your profile on [Objkt](https://objkt.com/) and click the 'Collaborations' tab and accept the collaboration request titled EmProps OpenStudio
-13. **Does EmProps have a Discord server?** [Absolutely!](https://discord.gg/K9B7GgmMA5) Head on to [⁠#verify-here](https://discord.com/channels/903275591208427641/1169056846804426862) to get set up with our MEE6 MemberToken verification tool.
-14. **I need help, have feedback, or want to reach out to the team directly. What do you suggest?** We've got your back. Head over to [#⁠ticket-tool-support-feedback](https://discord.com/channels/903275591208427641/1136298334064214107) in the discord and create a support ticket, and we'll help you out.
-15. **How do I upgrade my membership?** Upgrading your membership is a seamless process within the EmProps ecosystem. Simply log in to your OpenStudio account, navigate to the 'Settings' section, and select the desired membership tier to proceed with the upgrade.
+### What is Emergent Properties (EmProps)?
+
+> EmProps is a cutting-edge platform that blends a Studio and Marketplace. It's designed for AI artists and enthusiasts to create, curate, sell, and buy long-form generative art. It harnesses a network of interconnected nodes and tools to spark creativity and facilitate art projects.
+
+### Can you tell me more about Studio?
+
+> Certainly! The Studio is part of the EmProps ecosystem, acting as a suite of inventive tools tailored for crafting prompts and weaving ideas into tangible creative output. It's the heart of where your art takes shape. https://studio.emprops.ai
+
+### How can I publish my work?
+
+> With Studio, publishing your art is a breeze. Whether you're looking to showcase long-form generative collections or curated short-form pieces, you can effortlessly publish to both the Tezos and Ethereum blockchains.
+
+### I’m not familiar with cryptocurrency. Can I make purchases with USD using my credit card?
+
+> Absolutely! EmProps embraces inclusivity, so you can conveniently purchase tokens with USD via your credit card, no crypto knowledge necessary.
+
+### Does EmProps charge any marketplace fees from artists or creators?
+
+> EmProps is committed to supporting artists' prosperity. We don't take any marketplace fees from sales. The full sale amount goes directly to you, the creator. Instead, we plan to implement a subscription-based membership model in the future.
+
+### What benefits does a MemberToken offer?
+
+> The MemberToken is your all-access ticket to the EmProps beta, granting immediate access. Plus, it secures your lifetime membership and 2000 monthly compute credits.
+
+### What's this Patronpass I've heard so much about?
+
+> 25 Patronpasses were previously minted, offering an elevated EmProps journey. The PatronPass allows a patron to extend access to up to five additional users. It also provides you with an unlimited top-tier membership for our official release.
+
+### What makes EmProps Studio unique in the creative landscape?
+
+> EmProps Studio is crafted for end-to-end creativity, offering an intuitive, rapid, and adaptable experience. Our platform embraces an additive and intentional creative process, setting a new standard for modern artistry.
+
+### How do variables enhance my creative process within the Studio?
+
+> Variables are at the heart of EmProps Studio, acting as prompt fragments and adjustable settings that turbocharge the create-test-feedback loop. They enable a dynamic range of expressions within long-form collections, distinguishing our platform from others.
+
+### Can you explain the p5.js Pipeline feature?
+
+> Certainly! Our p5.js Pipeline integrates seamlessly with img2img generation, a cornerstone of Stable Diffusion and similar AI-based image generators. By using a p5.js script as the input, Studio provides an incredibly potent pipeline for advanced creative projects, allowing you to take your AI art to unprecedented levels.
+
+### How do the variable settings set EmProps apart from other art creation tools?
+
+> EmProps' variable settings allow for an unprecedented level of customization and variability in your art. This means no two pieces are exactly alike, providing you with a unique signature on your collections.
+
+### I've published my first project to the Marketplace, but on objkt it's showing the artist name as 'n/a'. What gives?
+
+> Not to worry! Head over to your profile on objkt and click the 'Collaborations' tab and accept the collaboration request titled EmProps Studio
+
+### I need help, have feedback, or want to reach out to the team directly. What do you suggest?
+
+> We've got your back. Head over to #🚨ᅵticket-tool-support-feedback and create a support ticket, and we'll help you out.
+
+### I ran out of credits, and I need my fix! Please, what can I do??
+
+> We gotchu. Head over to your Settings and find your referral link. Share it around, and for each friend you refer, you'll get another 75 credits!
