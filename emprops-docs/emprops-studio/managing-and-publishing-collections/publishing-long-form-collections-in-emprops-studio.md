@@ -2,7 +2,7 @@
 description: Publishing Long-Form Collections in EmProps Studio
 ---
 
-# Publishing Long-Form Collections in EmProps Studio
+# ⬛ Publishing Long-Form Collections in EmProps Studio
 
 ### Introduction <a href="#h_96ccad8b10" id="h_96ccad8b10"></a>
 

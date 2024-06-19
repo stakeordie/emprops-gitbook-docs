@@ -14,7 +14,7 @@ EmProps is a platform where artists can create, distribute, and sell a new form 
 
 EmProps is made up of two applications that work hand-in-hand;
 
-[EmProps Studio](docs-v2/emprops-studio/), a creativity studio for the era of AI and automation, and
+[EmProps Studio](emprops-docs/emprops-studio/), a creativity studio for the era of AI and automation, and
 
-[EmProps Marketplace](docs-v2/emprops-marketplace.md), a minting platform and marketplace for your creations and projects.
+[EmProps Marketplace](emprops-docs/emprops-marketplace/), a minting platform and marketplace for your creations and projects.
 

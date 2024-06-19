@@ -2,7 +2,7 @@
 description: Publishing a Medium-Form Collection on EmProps Studio
 ---
 
-# Publishing a Medium-Form Collection on EmProps Studio
+# ◼️ Publishing a Medium-Form Collection in EmProps Studio
 
 ### Introduction <a href="#h_f08823c41d" id="h_f08823c41d"></a>
 

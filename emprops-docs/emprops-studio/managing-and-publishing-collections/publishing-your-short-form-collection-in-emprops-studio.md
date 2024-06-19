@@ -2,7 +2,7 @@
 description: A Tezos-Exclusive!
 ---
 
-# Publishing Your Short-Form Collection
+# ◾ Publishing Your Short-Form Collection in EmProps Studio
 
 ### Introduction <a href="#h_f08823c41d" id="h_f08823c41d"></a>
 

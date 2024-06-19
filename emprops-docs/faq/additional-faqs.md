@@ -55,3 +55,10 @@
 ### I ran out of credits, and I need my fix! Please, what can I do??
 
 > We gotchu. Head over to your Settings and find your referral link. Share it around, and for each friend you refer, you'll get another 75 credits!
+
+### My Token is not showing up on the marketplace!
+
+> Sometimes the generator may get stuck while creating an artwork. If this happens, you can reach out to our team via Intercom or Discord.\
+>
+>
+> On other occasions, the metadata may just be out of sync. In this case, head over to your profile page on the Marketplace and hit the 'refresh' icon on the top-right

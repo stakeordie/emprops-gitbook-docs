@@ -87,6 +87,8 @@ The img2img toggle turns on image-to-image generation, which allows the Studio t
 
     Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](p5.js-guide.md).
 
+P5.js:&#x20;
+
 ### Upscaler <a href="#h_61e756d732" id="h_61e756d732"></a>
 
 The Upscaler enhances the resolution and quality of generated images. This tool is essential for creating high-definition outputs suitable for printing and high-quality displays.\
