@@ -25,9 +25,3 @@ Each member with OpenStudio access will get a beginning supply of 500 credits. T
 \
 You can use any of these test credit card numbers in the field to process the test credit 'transaction'. \
 [https://developers.bluesnap.com/reference/test-credit-cards](https://developers.bluesnap.com/reference/test-credit-cards)
-
-### "Buying" more credits
-
-To "buy" credits you need to have less than 10 left. If that is the case you can follow this video:arcade
-
-{% embed url="https://app.arcade.software/share/yADq6wTIdbXZshXPWOIq" %}
