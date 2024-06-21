@@ -27,7 +27,7 @@
     * [Tezos Wallets FAQ](emprops-docs/web3-nfts-and-crypto/wallet-setup/tezos-wallets-faq.md)
     * [ETH Wallets FAQ](emprops-docs/web3-nfts-and-crypto/wallet-setup/eth-wallets-faq.md)
 * [💳 Membership & Billing](emprops-docs/membership-and-billing/README.md)
-  * [MemberTokens](emprops-docs/membership-and-billing/membertokens.md)
+  * [MemberTokens & PatronPasses](emprops-docs/membership-and-billing/membertokens-and-patronpasses.md)
   * [PatronPass](emprops-docs/membership-and-billing/patronpass.md)
 * [❔ FAQ](emprops-docs/faq/README.md)
   * [🪙 Test Credits (Temporary)](emprops-docs/faq/test-credits-temporary.md)
