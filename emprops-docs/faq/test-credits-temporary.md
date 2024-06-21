@@ -21,7 +21,4 @@ Test credits are free credits to be used ahead of the public beta launch. The ex
 
 ### How do I get and use test credits?
 
-Each member with OpenStudio access will get a beginning supply of 500 credits. This is a little less than a $5-6 membership should get on a monthly basis. If and when you used them up, you will need to "buy" more. But don't worry it won't cost you anything \
-\
-You can use any of these test credit card numbers in the field to process the test credit 'transaction'. \
-[https://developers.bluesnap.com/reference/test-credit-cards](https://developers.bluesnap.com/reference/test-credit-cards)
+Each MemberToken holder has access to a top-up option within their settings page. The maxiumum credits you can have at any given time are 2000, but you can always refresh if you start to run out.&#x20;
