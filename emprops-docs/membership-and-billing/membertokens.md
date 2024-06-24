@@ -2,7 +2,7 @@
 description: 'EmProps MemberTokens and PatronPasses: A Quick Guide'
 ---
 
-# MemberTokens & PatronPasses
+# 🔑 MemberTokens & PatronPasses
 
 EmProps offers unique membership options designed to enhance your experience on the platform. MemberTokens and PatronPasses provide exclusive benefits and access to premium features, making them essential for active users and dedicated collectors. This guide will explain what MemberTokens and PatronPasses are, their benefits, and how you can use them.
 

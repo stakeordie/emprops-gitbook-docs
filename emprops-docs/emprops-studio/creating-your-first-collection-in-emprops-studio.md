@@ -8,15 +8,19 @@ Welcome to EmProps Studio! This guide will walk you through the process of creat
 
 ### Step 1: Accessing the Studio <a href="#h_ca54d44df8" id="h_ca54d44df8"></a>
 
-First, ensure you are logged into your EmProps account. From the Studio home page, log in with either your email, wallet, or another log-in option.
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+To access the studio, head on over to emprops.ai and select 'Start Creating' from the main page.  \
+\
+For your first log-in, log in via Email from the main page. \
+Later, you can log in with additional methods, including your crypto wallet.
 
 ### Step 2: The Project Directory <a href="#h_256bc28cd0" id="h_256bc28cd0"></a>
 
 Once in Studio, the first page you will see is the Project Directory.
 
-The Studio Project Directory is the central hub for organizing and managing all your project projects. Users can view, create, and manage project here, providing an organized workspace for various projects. Each project can contain multiple pages of variations.
-
-[![](https://downloads.intercomcdn.com/i/o/1054690564/ef52cec4bcd391b53f4c6fb9/image.png?expires=1716564600\&signature=7463e4d26d0ce917b7662801b05d1214ea6ea6808bac151bdbf5084325e2b5d1)](https://downloads.intercomcdn.com/i/o/1054690564/ef52cec4bcd391b53f4c6fb9/image.png?expires=1716564600\&signature=7463e4d26d0ce917b7662801b05d1214ea6ea6808bac151bdbf5084325e2b5d1)
+The Studio Project Directory is the central hub for organizing and managing all your project projects. Users can view, create, and manage project here, providing an organized workspace for various projects. Each project can contain multiple pages of variations\
+![](<../../.gitbook/assets/image (8).png>)
 
 ### Step 3: Create a New Project <a href="#h_14a241ad40" id="h_14a241ad40"></a>
 

@@ -1,5 +1,5 @@
 ---
-description: 'SubscriptionEmProps Studio Membership Options: A Quick Guide and MemberTokens'
+description: 'EmProps Studio Membership: A Quick Guide'
 ---
 
 # 💳 Membership & Billing
@@ -14,58 +14,58 @@ EmProps Studio provides five distinct membership plans, each offering a differen
 
 **1. Free Plan**
 
-* **Cost:** $0.00/month
-* **Credits:** 150 credits per month
-* **Features:**
-  * 1 Public Collection
-  * Discord Support
+* **`Cost:`**` ``$0.00/month`
+* **`Credits:`**` ``150 credits per month`
+* **`Features:`**
+  * `1 Public Collection`
+  * `Discord Support`
 
 **2. Intro Plan**
 
-* **Cost:** $6.00/month
-* **Credits:** 300 credits per month
-* **Features:**
-  * 2 Monthly Public Collections
-  * Intercom Support
+* **`Cost:`**` ``$6.00/month`
+* **`Credits:`**` ``300 credits per month`
+* **`Features:`**
+  * `2 Monthly Public Collections`
+  * `Intercom Support`
 
 **3. Basic Plan**
 
-* **Cost:** $20.00/month
-* **Credits:** 1250 credits per month
-* **Features:**
-  * 50% MarketCredit Rollover
-  * Unlimited Public Collections
-  * Intercom Support
+* **`Cost:`**` ``$20.00/month`
+* **`Credits:`**` ``1250 credits per month`
+* **`Features:`**
+  * `50% MarketCredit Rollover`
+  * `Unlimited Public Collections`
+  * `Intercom Support`
 
 **4. Pro Plan**
 
-* **Cost:** $85.00/month
-* **Credits:** 9000 credits per month
-* **Features:**
-  * 50% MarketCredit Rollover
-  * Unlimited Public Collections
-  * Encrypted Instruction Sets
-  * Priority Intercom Support
+* **`Cost:`**` ``$85.00/month`
+* **`Credits:`**` ``9000 credits per month`
+* **`Features:`**
+  * `50% MarketCredit Rollover`
+  * `Unlimited Public Collections`
+  * `Encrypted Instruction Sets`
+  * `Priority Intercom Support`
 
 **5. Ultimate Plan**
 
-* **Cost:** $180.00/month
-* **Credits:** 35000 credits per month
-* **Features:**
-  * 50% MarketCredit Rollover
-  * Unlimited Public Collections
-  * Encrypted Instruction Sets
-  * Dedicated Servers
-  * 24/7 Intercom Support
+* **`Cost:`**` ``$180.00/month`
+* **`Credits:`**` ``35000 credits per month`
+* **`Features:`**
+  * `50% MarketCredit Rollover`
+  * `Unlimited Public Collections`
+  * `Encrypted Instruction Sets`
+  * `Dedicated Servers`
+  * `24/7 Intercom Support`
 
 **Additional Credits**
 
 If you need more credits than your plan provides, you can purchase additional credits:
 
-* **1 Credit:** $0.05 each
-* **1000 Credits:** $40.00
-* **5000 Credits:** $150.00
-* **20000 Credits:** $400.00
+* **`1 Credit:`**` ``$0.05 each`
+* **`1000 Credits:`**` ``$40.00`
+* **`5000 Credits:`**` ``$150.00`
+* **`20000 Credits:`**` ``$400.00`
 
 **How to Subscribe to a Membership Plan**
 

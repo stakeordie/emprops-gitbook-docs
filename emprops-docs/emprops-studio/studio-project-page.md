@@ -8,45 +8,51 @@ description: Understanding the many features and nodes within the Studio's Creat
 
 The Studio Sketchbook Directory is the central hub for organizing and managing all your project sketchbooks. Users can view, create, and manage sketchbooks here, providing an organized workspace for various projects. Each sketchbook can contain multiple pages and project variations.
 
-[![](https://downloads.intercomcdn.com/i/o/1054690564/ef52cec4bcd391b53f4c6fb9/image.png?expires=1716564600\&signature=7463e4d26d0ce917b7662801b05d1214ea6ea6808bac151bdbf5084325e2b5d1)](https://downloads.intercomcdn.com/i/o/1054690564/ef52cec4bcd391b53f4c6fb9/image.png?expires=1716564600\&signature=7463e4d26d0ce917b7662801b05d1214ea6ea6808bac151bdbf5084325e2b5d1)
+![](<../../.gitbook/assets/image (8).png>)
 
 ### Studio Project Page <a href="#h_5dab79fd5f" id="h_5dab79fd5f"></a>
 
 The Studio Sketchbook Viewer allows users to view and interact with the contents of a specific sketchbook. This feature provides a detailed look at each project's pages, variables, and settings, enabling thorough project management and customization.
 
-[![](https://downloads.intercomcdn.com/i/o/1054691982/f022b19b9d9e36be11932fa5/image.png?expires=1716485400\&signature=5f2e6f479df583d2c65d863c90bf105c5754b8491a3492774f4db1f07ac97718)](https://downloads.intercomcdn.com/i/o/1054691982/f022b19b9d9e36be11932fa5/image.png?expires=1716485400\&signature=5f2e6f479df583d2c65d863c90bf105c5754b8491a3492774f4db1f07ac97718)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-## Setup <a href="#h_ca1c7608c0" id="h_ca1c7608c0"></a>
+## Nodes <a href="#h_ca1c7608c0" id="h_ca1c7608c0"></a>
 
-#### Set Hashes <a href="#h_c8644a3421" id="h_c8644a3421"></a>
+The Studio functions via a set of nodes which perform diferent functions. We will detail the nodes in the following sections:
+
+## Setup Node <a href="#h_ca1c7608c0" id="h_ca1c7608c0"></a>
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Click the - or + buttons to change the number of images generated per batch.</p></figcaption></figure>
+
+#### The Setup node allows you to determine how many image generations you will produce with each press of the Generate button. Typically the generations are randomized with unique hashes, but if you would like to control the output settings within the Studio, you can lock in the randomization with the Set Hashes Manually tool: <a href="#h_c8644a3421" id="h_c8644a3421"></a>
+
+#### Set Hashes Manually: <a href="#h_c8644a3421" id="h_c8644a3421"></a>
 
 Set Hashes is a feature that allows users to manually control the random seeds for consistent image generation across attempts. While the select-seed tool can control the StableDiffusion seed only, the manual hash affects the StableDiffusion seed, the random variables seed, and the 'pseudorandom' elements within your p5.js code.
 
-[![](https://downloads.intercomcdn.com/i/o/1054692647/e780e6b8f281d3ec8088103a/image.png?expires=1716485400\&signature=59f0a39dc594db2cb88de51b8bbee3d5691e7a2961df59c7e5368d6c7066e939)](https://downloads.intercomcdn.com/i/o/1054692647/e780e6b8f281d3ec8088103a/image.png?expires=1716485400\&signature=59f0a39dc594db2cb88de51b8bbee3d5691e7a2961df59c7e5368d6c7066e939)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>With Set hashes Manually selected, you can re-run the same processes exactly, resulting in a deterministic output. </p></figcaption></figure>
 
-### Enable PNG Info <a href="#h_d3ed00079e" id="h_d3ed00079e"></a>
+## Stable Diffusion Node <a href="#h_d3ed00079e" id="h_d3ed00079e"></a>
 
-[![](https://downloads.intercomcdn.com/i/o/1054694479/4a16bfeb116ea01feaf7b423/image.png?expires=1716485400\&signature=2b9200d4d884e9ba8e601f06022dea26ff31c8e4a6ca8f338421773b25812497)](https://downloads.intercomcdn.com/i/o/1054694479/4a16bfeb116ea01feaf7b423/image.png?expires=1716485400\&signature=2b9200d4d884e9ba8e601f06022dea26ff31c8e4a6ca8f338421773b25812497)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+### Enable PNG info
 
 Enable PNG Info allows users to choose whether a generated image contains the generation information (prompt, settings) within the metadata. This feature provides transparency and insights into the AI's creation parameters and settings. To view the instructions in an image's metadata, either open the image with a notepad app, or use a 3rd-party tool such as the [PNG chunk inspector](https://www.nayuki.io/page/png-file-chunk-inspector).
 
-[PNG chunk inspector](https://www.nayuki.io/page/png-file-chunk-inspector)
-
-### Prompt <a href="#h_b15d93079d" id="h_b15d93079d"></a>
+### Prompt and Negative Prompt <a href="#h_b15d93079d" id="h_b15d93079d"></a>
 
 A Prompt is a text description that guides the AI in generating the desired image. Effective prompts are crucial for achieving the intended artistic output.
 
-[![](https://downloads.intercomcdn.com/i/o/1054695168/8b57217e37e8cf415a9f69a9/image.png?expires=1716485400\&signature=58a599255eef1e46919817245404df5da7d42c7dda837cbc4f129f11fbaad1a4)](https://downloads.intercomcdn.com/i/o/1054695168/8b57217e37e8cf415a9f69a9/image.png?expires=1716485400\&signature=58a599255eef1e46919817245404df5da7d42c7dda837cbc4f129f11fbaad1a4)
-
-### Negative Prompt <a href="#h_cd218ddf36" id="h_cd218ddf36"></a>
-
 Likewise, a negative prompt is a text description that guides the AI by telling it what \*not\* to include in the generated image.
 
-[![](https://downloads.intercomcdn.com/i/o/1054696059/702b30b3337752614ca4d088/image.png?expires=1716485400\&signature=770193805c62e00ab972101e79a449e4ae084fc5a8da0dc3c8496b580763614f)](https://downloads.intercomcdn.com/i/o/1054696059/702b30b3337752614ca4d088/image.png?expires=1716485400\&signature=770193805c62e00ab972101e79a449e4ae084fc5a8da0dc3c8496b580763614f)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>A Prompt describing a fashionable scene with a {{Texture}} variable, while the negative prompt ensures the image is not cut off or oversaturated.</p></figcaption></figure>
 
-
+The **Enhance AI** function allows you to run your prompt through a Large Language Model like ChatGPT in order to improve the prompt's level of detail. You can also add Enhance instructions to your prompt, usually by adding them in parenthesis at the very beginning of your prompt, such as _(When Enhancing this prompt, please rewrite it as an acrostic poem that spells out "AIART")_
 
 ### **Stable Diffusion Checkpoints**
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Pre-trained models that generate new images based on learned knowledge. Training size significantly affects performance.
 
@@ -57,6 +63,8 @@ Pre-trained models that generate new images based on learned knowledge. Training
 * **SDXL models**: Trained at 1024x1024 pixels, great for high-resolution and high-quality outputs.
 
 ### Sampling Method <a href="#h_7dd71f6a13" id="h_7dd71f6a13"></a>
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 The Sampling Method is the algorithm used to generate the image, affecting the style and details. Different methods can produce varying artistic effects and levels of detail.&#x20;
 
@@ -74,6 +82,8 @@ Width & Height are the dimensions of the generated image. Users can specify thes
 
 ### img2img <a href="#h_b6dcecd7e5" id="h_b6dcecd7e5"></a>
 
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
 The img2img toggle turns on image-to-image generation, which allows the Studio to use an existing image as a starting point. This feature allows for creating derivative artworks based on a source image. There are three img2img options:\
 ​
 
@@ -87,8 +97,13 @@ The img2img toggle turns on image-to-image generation, which allows the Studio t
 
     Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](p5.js-guide.md).
 
-P5.js:&#x20;
+### Refiner
 
-### Upscaler <a href="#h_61e756d732" id="h_61e756d732"></a>
+The Refiner tool allows model switching during generation. With the current SDXL\_Refiner model, setting Refiner to 0.75 in a 40-step generation means the first 30 steps use your selected checkpoint, and the final 10 steps use SDXL\_Refiner. \
+note: the Refiner was designed with XL models in mind. Using the refiner with any non-SDXL-based model will result in some very strange looking artifacts.
 
-The Upscaler enhances the resolution and quality of generated images. This tool is essential for creating high-definition outputs suitable for printing and high-quality displays.
+### Upscaler Node <a href="#h_61e756d732" id="h_61e756d732"></a>
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+The Upscaler enhances the resolution and quality of generated images. This tool is essential for creating high-definition outputs suitable for printing and high-quality displays. You can blend multiple upscalers and/or make use of tools to improve faces such as GFPGAN and Codeformer

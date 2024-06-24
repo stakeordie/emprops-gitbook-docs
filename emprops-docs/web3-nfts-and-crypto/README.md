@@ -1,4 +1,4 @@
-# Web3, NFTs, & Crypto
+# 📊 Web3, NFTs, & Crypto
 
 EmProps employs NFT technology to generate digital tokens that certify the authenticity of images created through the Studio. These NFTs are minted from collections when a collector mints them via the Marketplace.
 
