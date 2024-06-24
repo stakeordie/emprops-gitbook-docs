@@ -34,7 +34,7 @@ Set Hashes is a feature that allows users to manually control the random seeds f
 
 ## Stable Diffusion Node <a href="#h_d3ed00079e" id="h_d3ed00079e"></a>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Pictured: The StableDiffusion Node settings</p></figcaption></figure>
 
 ### Enable PNG info
 
@@ -95,7 +95,7 @@ The img2img toggle turns on image-to-image generation, which allows the Studio t
     Select images at random from a gallery of pre-selected images from your flatfiles. To set up an img2img variables group, see "Variables"
 *   **p5.js**
 
-    Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](p5.js-guide.md).
+    Using p5.js code, create a generative artwork for each image. For more information, see the article on [p5.js](p5.js-node.md).
 
 ### Refiner
 

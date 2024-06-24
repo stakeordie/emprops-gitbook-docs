@@ -12,6 +12,8 @@ Variables in EmProps Studio offer a way to introduce diversity, precision, and c
 
 ### Accessing the Variables Editor <a href="#h_eadc84c78d" id="h_eadc84c78d"></a>
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="286"><figcaption><p>Select "Manage" to edit your Variables.</p></figcaption></figure>
+
 1. Open your project in Studio.
 2. Navigate to the “Variables” section on your project page.
 3. Click on the “MANAGE” button to open the Variables Editor.

@@ -10,7 +10,7 @@ When you encounter issues or have questions while using EmProps Studio, accessin
 
 If you couldn't find the information you were looking for in our documentation, don't hesitate to reach out to our team via our main support network, Intercom. You can reach out to our team directly from within the EmProps Studio via the Intercom icon in the bottom-right of your screen. It looks like \*this\*
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Intercom Support Button, as seen in the OpenStudio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Intercom Support Button, as seen in the OpenStudio</p></figcaption></figure>
 
 ### Steps to Use Intercom: <a href="#h_a8987ff3f1" id="h_a8987ff3f1"></a>
 
